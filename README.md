@@ -25,3 +25,6 @@
 **Contributions:**
 Contributions, bug reports, and feature requests are welcome! Feel free to fork and submit pull requests.
 
+**Images**
+1.For reference I put the website images(screenshot) in the ##public folder
+
