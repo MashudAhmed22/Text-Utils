@@ -14,6 +14,7 @@ export default function About(props) {
                 
             })
             settoggleColor('Enable Light  Mode')
+            
         }
         else{
             setBtnText({
@@ -22,6 +23,7 @@ export default function About(props) {
                 border:'2px solid white'
             })
             settoggleColor('Enable dark mode')
+            
         }
     }
 

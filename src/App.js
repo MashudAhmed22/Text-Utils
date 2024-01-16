@@ -11,10 +11,13 @@ function App() {
     if(mode==='light'){
         setMode('dark')
         document.body.style.backgroundColor="rgb(12 49 71)"
+        document.title='textUtils-Dark Mode'
+
       }
       else{
         setMode('light');
         document.body.style.backgroundColor="white"
+        document.title='textUtils-Light Mode'
     }
   
 }
